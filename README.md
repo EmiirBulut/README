@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiirBulut
-- 👀 I’m interested in .Net technologies and web development 
-- 🌱 I’m currently learning .Net Core right now 
+- 👀 I’m interested in web technologies and web development 
+- 🌱 I’m currently learning Laravel and Vue right now 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
    - go don't be shy mail me --> emirbulut9789@gmail.com
